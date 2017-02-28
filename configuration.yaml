@@ -53,9 +53,9 @@ sensor:
       #- humidity
       #- ozone
       - hourly_summary
-      #- daily_summary
-      #- temperature_max
-      #- temperature_min
+      - daily_summary
+      - temperature_max
+      - temperature_min
       
       
 #media 
